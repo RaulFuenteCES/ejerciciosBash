@@ -1,1 +1,1 @@
-ls -t -l -m
+ls -t -l -m -d */
